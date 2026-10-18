@@ -141,7 +141,7 @@ export default function App() {
           </nav>
 
           <div className="hidden items-center gap-6 lg:flex">
-            <a aria-label="Instagram" className="transition-opacity hover:opacity-60" href="#instagram">
+            <a aria-label="Instagram" className="transition-opacity hover:opacity-60" href="https://www.instagram.com/le_fournil_de_qwartz" rel="noreferrer" target="_blank">
               <InstagramIcon />
             </a>
             <a
@@ -268,7 +268,7 @@ export default function App() {
         <div className="mx-auto max-w-[1312px]">
           <div className="mb-9 flex flex-col gap-4 md:mb-14 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="eyebrow">Tout ce qu’on propose</p>
+              <p className="eyebrow">Tout ce qu'on propose</p>
               <h2 className="font-display mt-4 text-4xl leading-none tracking-tight md:text-7xl">
                 Du fournil <span className="italic text-[#9d593d]">à la vitrine.</span>
               </h2>
@@ -334,7 +334,7 @@ export default function App() {
                 Au Fournil de Qwartz, nous croyons aux choses simples, quand elles sont bien faites. Une farine choisie avec soin, un levain nourri chaque jour, une pâte qui repose longtemps.
               </p>
               <p className="mt-5 hidden text-base leading-8 text-white/70 md:block md:text-lg">
-                Nos pains et douceurs sont façonnés sur place, à la main, avec cette petite part d’imprévu qui rend l’artisanat si vivant.
+                Nos pains et douceurs sont façonnés sur place, à la main, avec cette petite part d'imprévu qui rend l'artisanat si vivant.
               </p>
               <a className="group mt-7 inline-flex items-center gap-5 border-b border-white/40 pb-2 text-xs font-bold uppercase tracking-[0.18em] md:mt-10" href="#contact">
                 Nous contacter
@@ -358,7 +358,7 @@ export default function App() {
               <a className="inline-flex items-center gap-3 bg-[#2c211b] px-5 py-3 text-xs font-bold uppercase tracking-[0.14em] text-[#f5eddf]" href="tel:+33141118000">
                 <PhoneIcon /> 01 41 11 80 00
               </a>
-              <a className="inline-flex items-center gap-3 border border-[#2c211b] px-5 py-3 text-xs font-bold uppercase tracking-[0.14em]" href="https://instagram.com" rel="noreferrer" target="_blank">
+              <a className="inline-flex items-center gap-3 border border-[#2c211b] px-5 py-3 text-xs font-bold uppercase tracking-[0.14em]" href="https://www.instagram.com/le_fournil_de_qwartz" rel="noreferrer" target="_blank">
                 <InstagramIcon /> Instagram
               </a>
             </div>
@@ -379,7 +379,7 @@ export default function App() {
                 <dd className="font-bold">7h00 — 13h00</dd>
               </div>
             </dl>
-            <a className="mt-6 inline-flex items-center gap-4 border-b border-[#2c211b] pb-2 text-xs font-bold uppercase tracking-[0.15em]" href="https://maps.google.com" rel="noreferrer" target="_blank">
+            <a className="mt-6 inline-flex items-center gap-4 border-b border-[#2c211b] pb-2 text-xs font-bold uppercase tracking-[0.15em]" href="https://maps.google.com/?q=55+Boulevard+Gallieni,+92390+Villeneuve-la-Garenne" rel="noreferrer" target="_blank">
               Itinéraire
               <ArrowIcon diagonal />
             </a>
@@ -394,7 +394,7 @@ export default function App() {
             <p className="font-display mt-2 text-3xl md:text-4xl">Noté 4,9 sur 5 par nos clients</p>
           </div>
           <blockquote className="max-w-xl border-l border-[#bca995] pl-5 text-sm leading-6 text-[#705e52] md:text-base">
-            “Une équipe accueillante, des viennoiseries généreuses et un pain qui reste excellent jusqu’au lendemain.”
+            "Une équipe accueillante, des viennoiseries généreuses et un pain qui reste excellent jusqu'au lendemain."
           </blockquote>
         </div>
       </section>
@@ -418,7 +418,7 @@ export default function App() {
             </div>
             <div id="instagram">
               <p className="footer-label">Restons gourmands</p>
-              <a className="font-display mt-5 inline-flex items-center gap-3 text-2xl hover:text-[#e8ad77]" href="https://instagram.com" rel="noreferrer" target="_blank">
+              <a className="font-display mt-5 inline-flex items-center gap-3 text-2xl hover:text-[#e8ad77]" href="https://www.instagram.com/le_fournil_de_qwartz" rel="noreferrer" target="_blank">
                 <InstagramIcon />
                 @lefournildeqwartz
               </a>
